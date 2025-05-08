@@ -1,2 +1,2 @@
 # DATASTRUCTURE
-is the class studying subject
+This is UndoRedo app for datastructure
